@@ -1,19 +1,34 @@
-NARENDRA TANTY WEBSITE — VERSION 6
-Simple, user-friendly profile-first homepage.
+NARENDRA TANTY — FINAL WEBSITE
 
-Upload all four files to GitHub:
+This is the final simple, user-friendly version.
+
+HOME:
+• Top-left: NT mark only (full name is NOT repeated there)
+• Left: Narendra Tanty profile, photo, qualifications, IISc research experience and Google Scholar
+• Middle: compact animated goal cards — JEE, NEET, IIT JAM, NET, GATE, Class 9–12
+• Right: large JOIN / REGISTER FOR TUITION panel
+• Lower sections: teaching philosophy, programs, registration and contact
+
+FILES TO UPLOAD TO GITHUB:
 index.html
 style.css
 script.js
 profile.jpg
+README.txt
 
-The main screen has:
-• Your profile on the left
-• Small animated goal boxes in the middle
-• Large Join/Register for Tuition panel on the right
-• Detailed courses and registration lower down
+HOW TO UPDATE ON GITHUB:
+1. Open your Narendra-Tanty repository.
+2. Add file -> Upload files.
+3. Select all five files.
+4. Commit changes.
+5. Wait 1–3 minutes and refresh your GitHub Pages website.
 
-To edit text: GitHub -> index.html -> Edit (pencil).
-To change design: style.css.
-To change registration behavior: script.js.
-To replace your photo: upload a new profile.jpg with the same filename.
+HOW TO EDIT:
+• index.html = words/content
+• style.css = appearance/design
+• script.js = registration/WhatsApp behavior
+• profile.jpg = profile photograph
+
+IMPORTANT:
+The registration form sends the submitted details to WhatsApp number +91 98808 75618.
+Google Scholar link is included in index.html.
